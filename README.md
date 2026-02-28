@@ -56,9 +56,9 @@ Approche mixte :
 
 ## Structure du projet
 
-/data → données brutes anonymisées (questionnaire)
-/sql → requêtes d’analyse et transformations
-/visualizations → graphiques issus des agrégations
+- `data` → données brutes anonymisées (questionnaire)
+- `sql` → requêtes d’analyse et transformations
+- `visualizations` → graphiques issus des agrégations
 - `README.md` : présentation du projet  
 
 ---
