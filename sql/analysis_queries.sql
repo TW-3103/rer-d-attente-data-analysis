@@ -1,6 +1,6 @@
 -- ===============================
 -- 25 responses
--- Analysis 1: Peak hour vs Time Pressure
+-- Analyse 1: Heure de pointe vs Pression
 -- ===============================
 
 WITH heure_de_pointe_cte AS (
