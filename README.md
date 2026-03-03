@@ -50,9 +50,35 @@ Approche mixte :
 - Les résultats préliminaires suggèrent une perception plus élevée de la pression liée au temps en période de forte affluence.
 - Cette tendance est cohérente avec l’hypothèse d’une accélération temporelle perçue dans les contextes de mobilité dense.
 
+## Analyse quantitative détaillée
+### Une transformation des variables a été réalisée afin de faciliter l’analyse exploratoire :
+La variable “heure de prise du RER” a été binarisée en :
+- Pointe
+- Hors pointe
+  
+La variable “pression temporelle” a été regroupée en :
+- Pression (Oui + Parfois)
+- Pas pression (Non)
+  
+Le tableau croisé obtenu montre :
+- 17 répondants sur 20 (85 %) voyageant en heures de pointe déclarent ressentir une pression temporelle.
+- 3 répondants sur 20 (15 %) en heures de pointe ne déclarent pas de pression.
+- Hors pointe, les effectifs sont plus faibles (n=5), ce qui limite l’interprétation comparative.
+
+
 ⚠️ Les résultats présentés sont exploratoires et reposent sur un échantillon de 25 répondants.
 
 ---
+
+## Compétences techniques mobilisées
+
+- `SQL (Google BigQuery)`
+- `Création de variables analytiques via CASE WHEN`
+- `Construction de tableaux croisés (GROUP BY)`
+- `Agrégation et comptage (COUNT)`
+- `Structuration de requêtes avec CTE`
+- `Visualisation de données`
+- `Analyse exploratoire de données (EDA)`
 
 ## Structure du projet
 
@@ -60,6 +86,12 @@ Approche mixte :
 - `sql` → requêtes d’analyse et transformations
 - `visualizations` → graphiques issus des agrégations
 - `README.md` : présentation du projet  
+
+---
+
+## Conclusion
+Ce projet illustre la possibilité d’articuler approche sociologique qualitative et traitement quantitatif exploratoire des données.
+Il constitue une première expérimentation d’analyse de données appliquée à un objet sociologique, dans une perspective de montée en compétence en data analytics.
 
 ---
 
