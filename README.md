@@ -79,7 +79,10 @@ La majorité des répondants déclarent ressentir une pression temporelle lors d
 
 ![Relation pression](visualizations/pression_vs_pointe.png)
 
-Les résultats suggèrent que les usagers voyageant en heure de pointe déclarent plus souvent ressentir une pression temporelle.
+Les résultats montrent que la majorité des usagers voyageant en heure de pointe déclarent ressentir une pression temporelle.
+Sur 20 répondants voyageant en heure de pointe, 17 déclarent ressentir une pression liée au temps.
+
+Ces résultats suggèrent que les contextes de mobilité dense, caractéristiques des heures de pointe, peuvent renforcer le sentiment d’accélération du temps dans les transports.
 
 ## Les résultats présentés sont exploratoires et reposent sur un échantillon de 25 répondants.
 
