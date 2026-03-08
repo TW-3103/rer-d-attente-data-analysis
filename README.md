@@ -12,6 +12,17 @@ En quoi les comportements et les pratiques des usagers des transports en commun 
 
 ---
 
+## Principaux enseignements
+
+L’analyse exploratoire des données met en évidence plusieurs tendances concernant la perception du temps dans les transports :
+
+- La majorité des répondants déclarent ressentir une pression temporelle lors de leurs déplacements en transport.
+- 88 % des répondants indiquent ressentir au moins parfois une pression liée au temps.
+- Les résultats suggèrent que les usagers voyageant en heure de pointe déclarent plus souvent ressentir une pression temporelle.
+- Ces observations sont cohérentes avec les travaux de Hartmut Rosa sur l’accélération sociale, selon lesquels les individus cherchent à optimiser les moments d’attente dans les sociétés contemporaines.
+
+Ces résultats doivent être interprétés comme **exploratoires**, car ils reposent sur un échantillon limité (25 répondants).
+
 ## Présentation du projet
 
 Ce projet examine les pratiques d’attente et la perception de la pression liée au temps chez les usagers du RER D en région parisienne.  
@@ -32,6 +43,10 @@ Approche mixte :
 - Données traitées avec Google BigQuery
 - Requêtes SQL pour agrégation et analyse
 - Visualisations basées sur données agrégées
+
+
+Ce projet constitue une phase exploratoire (pilote) visant à valider la méthodologie de recueil de données pour une analyse sociologique approfondie. 
+Avec un échantillon de 25 répondants, l’objectif n’est pas de produire des résultats représentatifs de l’ensemble des usagers du RER D, mais plutôt d’identifier des tendances et pistes d’analyse concernant la perception de la pression temporelle dans les transports.
 
 ---
 
@@ -73,18 +88,27 @@ Le tableau croisé obtenu montre :
 - Seuls 3 répondants déclarent ne pas ressentir de pression temporelle.
 - Donc 88 % ressentent au moins parfois une pression temporelle.
 
+### Distribution de la pression temporelle
+
 ![Pression temporelle](visualizations/pression_distribution.png)
 
-La majorité des répondants déclarent ressentir une pression temporelle lors de leurs déplacements en transport.
+Ce graphique montre la répartition des réponses à la question concernant la pression temporelle ressentie dans les transports en heure de pointe.  
+La majorité des répondants déclarent ressentir cette pression, ce qui suggère que les déplacements quotidiens s’inscrivent dans un rapport accéléré au temps.
+
+
+### Relation entre heure de pointe et pression temporelle
 
 ![Relation pression](visualizations/pression_vs_pointe.png)
 
-Les résultats montrent que la majorité des usagers voyageant en heure de pointe déclarent ressentir une pression temporelle.
+Ce graphique compare la perception de la pression temporelle selon que les usagers voyagent en heure de pointe ou hors pointe.
+
+Les résultats suggèrent que les contextes de mobilité dense (heures de pointe) peuvent renforcer la perception d’une pression liée au temps.
 Sur 20 répondants voyageant en heure de pointe, 17 déclarent ressentir une pression liée au temps.
 
-Ces résultats suggèrent que les contextes de mobilité dense, caractéristiques des heures de pointe, peuvent renforcer le sentiment d’accélération du temps dans les transports.
-
 ## Les résultats présentés sont exploratoires et reposent sur un échantillon de 25 répondants.
+
+Ce projet constitue une phase exploratoire (pilot study) visant à tester une méthodologie d’analyse sociologique des pratiques d’attente dans les transports.
+Avec un échantillon de 25 répondants, les résultats ne sont pas représentatifs de l’ensemble des usagers du RER D mais permettent d’identifier des tendances initiales concernant la perception de la pression temporelle.
 
 ---
 
