@@ -65,8 +65,19 @@ Le tableau croisé obtenu montre :
 - 3 répondants sur 20 (15 %) en heures de pointe ne déclarent pas de pression.
 - Hors pointe, les effectifs sont plus faibles (n=5), ce qui limite l’interprétation comparative.
 
+## Résultats principaux
 
-⚠️ Les résultats présentés sont exploratoires et reposent sur un échantillon de 25 répondants.
+- Cela suggère que la densité et l’organisation des flux de mobilité influencent la perception subjective du temps.
+- La majorité des répondants déclarent ressentir une pression liée au temps lorsqu’ils prennent les transports.
+- Sur les 25 personnes interrogées, 16 déclarent ressentir cette pression et 6 indiquent la ressentir parfois.
+- Seuls 3 répondants déclarent ne pas ressentir de pression temporelle.
+- Donc 88 % ressentent au moins parfois une pression temporelle.
+
+![Pression temporelle](visualizations/nb_responses par pression.png)
+
+La majorité des répondants déclarent ressentir une pression temporelle lors de leurs déplacements en transport.
+
+## Les résultats présentés sont exploratoires et reposent sur un échantillon de 25 répondants.
 
 ---
 
