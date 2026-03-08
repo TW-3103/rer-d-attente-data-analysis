@@ -73,9 +73,13 @@ Le tableau croisé obtenu montre :
 - Seuls 3 répondants déclarent ne pas ressentir de pression temporelle.
 - Donc 88 % ressentent au moins parfois une pression temporelle.
 
-![Pression temporelle](visualizations/nb_responses par pression.png)
+![Pression temporelle](visualizations/pression_distribution.png)
 
 La majorité des répondants déclarent ressentir une pression temporelle lors de leurs déplacements en transport.
+
+![Relation pression](visualizations/pression_vs_pointe.png)
+
+Les résultats suggèrent que les usagers voyageant en heure de pointe déclarent plus souvent ressentir une pression temporelle.
 
 ## Les résultats présentés sont exploratoires et reposent sur un échantillon de 25 répondants.
 
