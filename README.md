@@ -22,6 +22,8 @@ L’analyse exploratoire met en évidence plusieurs tendances concernant la perc
 
 Les résultats doivent être interprétés comme **exploratoires**, car ils reposent sur un échantillon limité (25 répondants).
 
+Le questionnaire constitue une **étude pilote**, visant à tester une méthodologie d’analyse des pratiques d’attente dans les transports et à identifier des tendances initiales concernant la perception de la pression temporelle.
+
 ---
 
 ## Méthodologie
