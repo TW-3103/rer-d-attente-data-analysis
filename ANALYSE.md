@@ -47,7 +47,7 @@ Cette observation peut être interprétée comme un effet du contexte de mobilit
 
 ## Discussion sociologique
 
-Ces résultats peuvent être relié à la théorie de l’accélération sociale développée par le sociologue allemand Hartmut Rosa. Dans son ouvrage **Accélération. Une critique sociale du temps** (2005), Rosa analyse la transformation du rapport au temps dans les sociétés contemporaines.
+Ces résultats peuvent être reliés à la théorie de l’accélération sociale développée par le sociologue allemand Hartmut Rosa. Dans son ouvrage **Accélération. Une critique sociale du temps** (2005), Rosa analyse la transformation du rapport au temps dans les sociétés contemporaines.
 
 Selon Rosa, la modernité se caractérise par une intensification des rythmes de vie et une accélération des activités sociales. Les individus cherchent à accomplir un nombre croissant d’actions dans un laps de temps toujours plus réduit.
 
